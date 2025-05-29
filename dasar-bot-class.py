@@ -193,4 +193,4 @@ async def klasifikasi(ctx):
         await ctx.send("Anda lupa mengunggah gambar :(")
 from model import get_class
 
-bot.run('MTMwOTEzMjc2NTU1NTQ2MjE4NQ.Getww8.DEQqg9Xk8wx9vx6U3sCYTb3_JmQlPhrsMrjap4')
+bot.run('This is for discord bot token type here')
